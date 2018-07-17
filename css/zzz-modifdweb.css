@@ -1,0 +1,49 @@
+/** CATALOGUE EVENEMENTS **/
+
+.page-events #zone2 .esf-form-zone .event-search-form .esf-as-header{
+    position: initial;
+}
+
+.catal-prd-main-price{
+display:none;
+}
+
+
+.block.block-page.list-articles.actus.animate.animated .main-title-with-link a.link-view-all{
+    bottom: inherit;
+}
+
+
+/*** SUBMENU OVERFLOW ****/
+
+.front .global-wrapper {
+    overflow: hidden;
+}
+
+.global-wrapper{
+overflow:inherit;
+}
+
+
+/**** ICON HEADER YOUTUBE BUTTON ****/
+
+.icon.youtube {
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    vertical-align: middle;
+    background-image: url(images/ico-youtube.png);
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -webkit-transition: background-image .3s;
+    -o-transition: background-image .3s;
+    transition: background-image .3s;
+}
+
+a:hover .icon.youtube{
+    background-image: url(images/icons/ico-youtube_hover.png);
+}
+
+body > div.global-wrapper > header.is-stuck > div > div > div.header-content > div > div > div.col.col-size3 > a > span{
+    line-height: 19px;
+}
