@@ -47,3 +47,8 @@ a:hover .icon.youtube{
 body > div.global-wrapper > header.is-stuck > div > div > div.header-content > div > div > div.col.col-size3 > a > span{
     line-height: 19px;
 }
+
+/* Cacher evts fiches exposants */
+div#events {
+    display: none;
+}
