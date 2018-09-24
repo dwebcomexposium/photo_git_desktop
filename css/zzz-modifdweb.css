@@ -87,6 +87,7 @@ div#cxpmClientAccountWidget {
 #cxpmClientAccountWidget .widget-text span#widgetFirstnameText {
     font-size: 11px;
 	    letter-spacing: 1.2px;
+		    text-transform: initial;
 }
 
 #cxpmClientAccountWidget .widget-text span a {
@@ -113,5 +114,5 @@ div#cxpmClientAccountWidget {
 }
 
 #cxpmClientAccountWidget .widget-text span a:hover {
-    color: #ee7f19 !important;
+    color: #ee7f19;
 }
