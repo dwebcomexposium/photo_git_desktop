@@ -80,12 +80,12 @@ div#cxpmClientAccountWidget {
 
 #cxpmClientAccountWidget .widget-text span#widgetFirstname {
     font-weight: 500;
-    font-size: 13px;
+    font-size: 11px;
 	    letter-spacing: 1.2px;
 }
 
 #cxpmClientAccountWidget .widget-text span#widgetFirstnameText {
-    font-size: 13px;
+    font-size: 11px;
 	    letter-spacing: 1.2px;
 }
 
@@ -97,13 +97,15 @@ div#cxpmClientAccountWidget {
     color: #b1b1b1 !important;
     text-transform: initial;
 	    font-weight: 400;
+		    font-size: 11px;
 }
 
 #cxpmClientAccountWidget .widget-text .cap-icon-user-circle-o:before {
     content: "\f2be";
     position: absolute;
     margin-left: -20px;
-    margin-top: 1px;
+   margin-top: 4.5px;
+    font-size: 14px;
 }
 
 #cxpmClientAccountWidget .widget-my-selection a.widget-icon.openCapTrigger {
