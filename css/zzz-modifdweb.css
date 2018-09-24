@@ -52,3 +52,64 @@ body > div.global-wrapper > header.is-stuck > div > div > div.header-content > d
 div#events {
     display: none;
 }
+
+/**** Compte client ****/
+
+div#cxpmClientAccountWidget {
+    float: right;
+    padding-right: 20px;
+}
+
+#cxpmClientAccountWidget .widget-my-selection i.cap-icon-shopping_basket {
+    font-size: 19px;
+	    color: #000000;
+}
+
+#cxpmClientAccountWidget .widget-text {
+    padding-top: 5px;
+    font-family: gotham,sans-serif;
+}
+
+#cxpmClientAccountWidget .widget-text {
+    padding-top: 5px;
+    font-family: gotham,sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+	 margin-top: -8px;
+}
+
+#cxpmClientAccountWidget .widget-text span#widgetFirstname {
+    font-weight: 500;
+    font-size: 13px;
+	    letter-spacing: 1.2px;
+}
+
+#cxpmClientAccountWidget .widget-text span#widgetFirstnameText {
+    font-size: 13px;
+	    letter-spacing: 1.2px;
+}
+
+#cxpmClientAccountWidget .widget-text span a {
+    color: #000000;
+}
+
+#cxpmClientAccountWidget .widget-text span.widget-logout a {
+    color: #b1b1b1 !important;
+    text-transform: initial;
+	    font-weight: 400;
+}
+
+#cxpmClientAccountWidget .widget-text .cap-icon-user-circle-o:before {
+    content: "\f2be";
+    position: absolute;
+    margin-left: -20px;
+    margin-top: 1px;
+}
+
+#cxpmClientAccountWidget .widget-my-selection a.widget-icon.openCapTrigger {
+    padding: 0 2px;
+}
+
+#cxpmClientAccountWidget .widget-text span a:hover {
+    color: #ee7f19;
+}
