@@ -113,5 +113,5 @@ div#cxpmClientAccountWidget {
 }
 
 #cxpmClientAccountWidget .widget-text span a:hover {
-    color: #ee7f19;
+    color: #ee7f19 !important;
 }
