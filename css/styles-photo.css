@@ -2178,9 +2178,9 @@ button.js-mySelection:hover { text-decoration: underline; }
  #tooltip-title:before, #tooltip-title:after {display: none; }
  #tooltip-title {display: none; }
  
- 
+ /*
  .page-events .catal-nav-ex-more-link.back_button, .page-events .breadcrumb-nav .inside, .page-events .social-sharing, .page-events button.btn-primary.js-mySelection {display: none; }
- 
+ */
  
  .page-events dialog {
  
