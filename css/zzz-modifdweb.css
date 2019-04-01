@@ -48,10 +48,6 @@ body > div.global-wrapper > header.is-stuck > div > div > div.header-content > d
     line-height: 19px;
 }
 
-/* Cacher evts fiches exposants */
-div#events {
-    display: none;
-}
 
 /**** Compte client ****/
 
