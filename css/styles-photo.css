@@ -480,7 +480,7 @@ a:hover .icon.espace-exposants { background-image: url(images/icons/ico-lock_hov
 .site-banner .global-search-form .gsf-input:-moz-placeholder { font-family: 'Playfair Display', serif !important; font-size: 22px !important; font-style: normal !important; color: #1d1d1b !important; opacity: 1 !important; }
 .site-banner .global-search-form .gsf-input:-ms-input-placeholder { font-family: 'Playfair Display', serif !important; font-size: 22px !important; font-style: normal !important; color: #1d1d1b !important; opacity: 1 !important; }
 
-.site-banner .global-search-form .gsf-submit-btn { position: absolute; top: 18px; right: -2px; left: auto; bottom: auto; font-size: 25px; font-weight: 700; color: #ee7f19; background: none; 
+.site-banner .global-search-form .gsf-submit-btn { position: absolute; top: 18px; right: -2px; left: auto; bottom: auto; font-size: 25px; font-weight: 700; color: #f10013; background: none; 
 	-webkit-transition: opacity .3s; 
 	     -o-transition: opacity .3s; 
 	        transition: opacity .3s; 
