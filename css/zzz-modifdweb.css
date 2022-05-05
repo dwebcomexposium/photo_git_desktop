@@ -110,7 +110,7 @@ div#cxpmClientAccountWidget {
 }
 
 #cxpmClientAccountWidget .widget-text span a:hover {
-    color: #ee7f19;
+    color: #f10013;
 }
 
 #cxpmClientAccountWidget .widget-my-selection .widget-icon>span.number, #cxpm-connect-sso-dropdown .widget-my-selection .widget-icon>span.number {
