@@ -1088,7 +1088,7 @@ a:hover .icon.espace-exposants { background-image: url(images/icons/ico-lock_hov
 
 .article-wrapper { position: relative; max-width: 1120px; margin: 0 auto; font-size: 13px; line-height: 1.77; color: #2e2e2c; padding-bottom: 173px; }
 
-.article-wrapper a { color: #ee7f19;  }
+.article-wrapper a { color: #f10013;  }
 
 .article-wrapper h2, .search-result h2, a.sm-item-title { font-family: 'Playfair Display', serif; font-size: 35px; font-weight: 400; color: #f10013; text-align: center; padding: 0; margin: 0 0 30px; border: 0; clear: both; }
 .article-wrapper h2 span, .search-result h2 span { position: relative; display: inline-block; }
