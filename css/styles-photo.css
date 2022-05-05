@@ -178,7 +178,7 @@ body { min-width: 1140px; font-family: 'Gotham'; font-weight: 400; background: #
 .header .header-link-secondary span { text-transform: uppercase; }
 
 .header .header-bar { padding: 6px 0 8px; background: #f2f2f2; }
-.header .logo { float: left; margin-right: 45px; }
+.header .logo { float: left;}
 
 .header .col { position: relative; text-align: center; }
 .header .col-size1 { text-align: left; }
@@ -355,7 +355,8 @@ a:hover .icon.espace-exposants { background-image: url(images/icons/ico-lock_hov
 
 .col { float: left; display: block; }
 
-.col-size1 { width: 421px; }
+.col-size1 { width: 550px; }
+/*.col-size1 { width: 421px; }*/
 /*.col-size2 { width: 398px; }*/
 .col-size2 { width: 398px; }
 
