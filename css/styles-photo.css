@@ -440,7 +440,7 @@ a:hover .icon.espace-exposants { background-image: url(images/icons/ico-lock_hov
 
 .date { padding-right: 40px; margin-top: -7px; font-size: 22px; line-height: 1; color: #1d1d1b; }
 
-.date span { display: block; margin-top: -7px; font-size: 12px; }
+.date span { display: block; margin-top: -7px; font-size: 14px; }
 .date strong { display: block; margin-top: -15px; font-size: 45px; color: #f10013; }
 .date small { position: relative; font-size: 23px; font-weight: 400; }
 
