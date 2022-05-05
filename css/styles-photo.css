@@ -442,7 +442,7 @@ a:hover .icon.espace-exposants { background-image: url(images/icons/ico-lock_hov
 
 .date span { display: block; margin-top: -7px; font-size: 12px; }
 .date strong { display: block; margin-top: -15px; font-size: 45px; color: #f10013; }
-.date small { position: relative; top: -14px; font-size: 23px; font-weight: 400; }
+.date small { position: relative; font-size: 23px; font-weight: 400; }
 
 /* ------------------------------------------------------------ *\
 	Global Search Form
