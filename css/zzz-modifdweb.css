@@ -132,3 +132,6 @@ color: #fff;
 .caroufredsel_wrapper {
     height: 331px !important;
 }
+.error404 div#zone1 {
+    display: none;
+}
