@@ -135,3 +135,6 @@ color: #fff;
 .error404 div#zone1 {
     display: none;
 }
+aside.section-aside {
+    visibility: hidden;
+}
